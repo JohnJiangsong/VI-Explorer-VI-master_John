@@ -14,4 +14,5 @@
 	<Item Name="clLabview.lvclass" Type="LVClass" URL="../clLabview/clLabview.lvclass"/>
 	<Item Name="VI-File-Explorer.vi" Type="VI" URL="../VI-File-Explorer.vi"/>
 	<Item Name="zlib.dll" Type="Document" URL="../zlib.dll"/>
+	<Item Name="VI-File-Explorer_Folder.vi" Type="VI" URL="../VI-File-Explorer_Folder.vi"/>
 </Library>
